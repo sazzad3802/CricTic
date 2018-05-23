@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Cric-Tic</string>
+    <string name="match_center">Match Center</string>
+    <string name="vs">VS</string>
+    <string name="afgan">Afghanistan</string>
+    <string name="australia">Australia</string>
+    <string name="bangladesh">Bangladesh</string>
+    <string name="england">England</string>
+    <string name="india">India</string>
+    <string name="new_zealand">New Zealand</string>
+    <string name="pakistan">Pakistan</string>
+    <string name="south_africa">South Africa</string>
+    <string name="sri_lanka">Sri Lanka</string>
+    <string name="west_indies">West Indies</string>
+    <string name="zimbabwe">Zimbabwe</string>
+    <string name="ireland">Ireland</string>
+    <string name="live_commentary">Ball by Ball</string>
+
+    <string name="native_ad">ca-app-pub-9551927371844997/3931664061</string>
+    <string name="copyright">Copyright © NerdGeeks 2016.\nAll Right Reserved</string>
+</resources>
